@@ -50,14 +50,14 @@ När antalet test på samma klass växer kommer vi troligen ha samma kod för at
 
 	public class InvestmentTest {
 
-    Stock stock; 
-    Investment investment; 
+		Stock stock; 
+		Investment investment; 
     
-    @Before
-    public void before() {
-        stock = new Stock("ERIC B", "Ericsson B", 80.0);
-        investment = new Investment(stock);
-    }
+		@Before
+		public void before() {
+				stock = new Stock("ERIC B", "Ericsson B", 80.0);
+				investment = new Investment(stock);
+		}
 
 @Before är annoteringen som talar om för JUnit att denna metod ska köras innan varje test
 
