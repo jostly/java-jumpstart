@@ -85,7 +85,7 @@ Lunch
 9.15
 
 * Teori: enhetstestning, JUnit
-* Övning: Enhetstest för investment
+* Övning: [Enhetstest för investment](/day_2/block_1/1_UnitTestingInvestment/)
 * Analys och diskussion
 
 9.45
