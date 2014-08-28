@@ -20,12 +20,11 @@ Enskilda test skapas som metoder med annotering @Test (skriv @Test före metoden
 		
 		@Test
 		public void testEmptyInvestmentContainsNoStocks() {
-		    Stock stock = new Stock("ERIC B", "Ericsson B", 80.0);
-    		Investment investment = new Investment(stock);
+				Stock stock = new Stock("ERIC B", "Ericsson B", 80.0);
+				Investment investment = new Investment(stock);
 		
-        assertThat(investment.getAmount(), is(0));
-    }
-
+				assertThat(investment.getAmount(), is(0));
+		}
 	}
 
 1. Namnge testmetoden så den beskriver vad som testas. I det fallet ovanför testar vi att en nyskapad Investment inte innehåller några aktier.
@@ -48,6 +47,8 @@ Här kan vi se att på InvestmentTest rad 12 förväntades 0 men fick 1, klicka 
 ### Skriv flera test
 
 När antalet test på samma klass växer kommer vi troligen ha samma kod för att skapa testobjekt på flera ställen. Eliminera den duplicerade koden genom att flytta ut den till ett block som körs innan varje test:
+
+	public class InvestmentTest {
 
     Stock stock; 
     Investment investment; 
