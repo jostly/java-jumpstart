@@ -117,7 +117,7 @@ Lunch
 13.00
 
 * Teori: arv, abstrakta klasser, innerklasser
-* Refaktoreringsövning: [Refaktorera ut gemensamma delar i de olika klasserna](/day_1/block_2/1_RefactoringHierarchy/)
+* Refaktoreringsövning: [Refaktorera ut gemensamma delar i de olika klasserna](/day_2/block_2/1_RefactoringHierarchy/)
 * Analys och diskussion
 
 13.30
