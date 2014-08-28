@@ -72,29 +72,79 @@ Lunch
 * Övning: [Aktieportfölj del 2](/day_1/block_2/3_StockPortfolio_Part2/)
 * Analys och diskussion
 
+
+### Dag 2
+
+#### Block 1 - Återblick, enhetstestning, mer objektorientering
+
+9.00
+
+* Sammanfattning av första dagen; lessons learned
+* Nya frågor som dykt upp
+
+9.15
+
+* Teori: enhetstestning
+* Övning: Enhetstest för investment
+* Analys och diskussion
+
+9.45
+
+* Teori: objektorientering i praktiken - hur används det (oftast) ute i verkligheten
+* Diskussion: vad innebär det att vi kapslar in kod, hur förenklar det för oss? Kan vi hitta exempel från annat? T.ex. starta en bil
+* Gemensam övning: Modellera en bil som javaobjekt
+
+10.15
+
+Fika
+
+10.30
+
+* Teori: Collections, generics
+* Övning: [Aktieportfölj del 3](/day_2/block_1/3_StockPortfolio/)
+* Analys och diskussion
+
+11.15
+
+* Teori: interface, utbytbar kod
+* Övning: [Värdepapperporfölj del 1](/day_2/block_1/4_InstrumentPortfolio/)
+* Analys och diskussion
+
+12.00
+
+Lunch
+
+13.00
+
+* Teori: arv, abstrakta klasser
+* Refaktoreringsövning: Refaktorera ut gemensamma delar i de olika klasserna
+* Analys och diskussion
+
+13.30
+
+* Teori: anonyma innerklasser
+
+* Teori: Felhantering, try/catch/finally
+
+14.00
+
+* Teori: paketerad java, jar, skapa körbara filer
+
 14.30
 
 Fika
 
 15.00
 
-* Teori: Collections, generics
-* Övning: [Aktieportfölj del 3](/day_1/block_2/4_StockPortfolio_Part3/)
-* Analys och diskussion
+* Teori:
 
 15.30
 
-* Teori: interface, utbytbar kod
-* Övning: [Värdepapperporfölj del 1](/day_1/block_2/5_InstrumentPortfolio_Part1/)
-* Analys och diskussion
+* Teori:
 
 16.00
 
-* Teori: arv, abstrakta klasser
-* Refaktoreringsövning: Refaktorera ut gemensamma delar i de olika klasserna
-* Analys och diskussion
-* Återblick och feedback inför dag 2
-
+Utvärdering, avslutning
 
 
 ## Bra länkar
