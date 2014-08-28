@@ -57,13 +57,13 @@ Att köra testprogrammet ska ge följande utmatning:
 >
 > Inköpspris 2: 83.0
 >
-> Nytt värde: 12450.0
+> Nytt värde: 13350.0
 >
 > Inköpspris efter försäljning: 83.0
 >
 > Antal efter försäljning: 75
 >
-> Nytt värde: 6225.0
+> Nytt värde: 6675.0
 
 
 
