@@ -116,19 +116,20 @@ Lunch
 
 13.00
 
-* Teori: arv, abstrakta klasser
-* Refaktoreringsövning: Refaktorera ut gemensamma delar i de olika klasserna
+* Teori: arv, abstrakta klasser, innerklasser
+* Refaktoreringsövning: [Refaktorera ut gemensamma delar i de olika klasserna](/day_1/block_2/1_RefactoringHierarchy/)
 * Analys och diskussion
 
 13.30
 
-* Teori: innerklasser, enum
-
 * Teori: Felhantering, try/catch/finally
+* Övning: [Gör portföljen mer robust](/day_2/block_2/2_ExceptionHandling/)
+* Analys och diskussion
 
 14.00
 
 * Teori: paketerad java, jar, skapa körbara filer
+* Frågestund: Vad mer vill ni veta?
 
 14.30
 
@@ -136,13 +137,13 @@ Fika
 
 15.00
 
-* Teori:
+Slutövning. Välj en av följande övningar:
+* [GUI - grafiskt gränssnitt för portföljen](/day_2/block_3/GUI/)
+* [Lagring - lagra innehållet i portföljen mellan körningar](/day_2/block_3/Storage/)
+* [Aktiv marknad - aktiepriser som kan variera](/day_2/block_3/Market/)
+* [Java Tutorial - läs på valfri del från Oracles Java Tutorials](http://docs.oracle.com/javase/tutorial/index.html)
 
-15.30
-
-* Teori:
-
-16.00
+16.15 ca
 
 Utvärdering, avslutning
 
