@@ -84,7 +84,7 @@ Lunch
 
 9.15
 
-* Teori: enhetstestning
+* Teori: enhetstestning, JUnit
 * Övning: Enhetstest för investment
 * Analys och diskussion
 
@@ -122,7 +122,7 @@ Lunch
 
 13.30
 
-* Teori: anonyma innerklasser
+* Teori: innerklasser, enum
 
 * Teori: Felhantering, try/catch/finally
 
