@@ -72,29 +72,80 @@ Lunch
 * Övning: [Aktieportfölj del 2](/day_1/block_2/3_StockPortfolio_Part2/)
 * Analys och diskussion
 
+
+### Dag 2
+
+#### Block 1 - Återblick, enhetstestning, mer objektorientering
+
+9.00
+
+* Sammanfattning av första dagen; lessons learned
+* Nya frågor som dykt upp
+
+9.15
+
+* Teori: enhetstestning, JUnit
+* Övning: [Enhetstest för investment](/day_2/block_1/1_UnitTestingInvestment/)
+* Analys och diskussion
+
+9.45
+
+* Teori: objektorientering i praktiken - hur används det (oftast) ute i verkligheten
+* Diskussion: vad innebär det att vi kapslar in kod, hur förenklar det för oss? Kan vi hitta exempel från annat? T.ex. starta en bil
+* Gemensam övning: Modellera en bil som javaobjekt
+
+10.15
+
+Fika
+
+10.30
+
+* Teori: Collections, generics
+* Övning: [Aktieportfölj del 3](/day_2/block_1/3_StockPortfolio/)
+* Analys och diskussion
+
+11.15
+
+* Teori: interface, utbytbar kod
+* Övning: [Värdepapperporfölj del 1](/day_2/block_1/4_InstrumentPortfolio/)
+* Analys och diskussion
+
+12.00
+
+Lunch
+
+13.00
+
+* Teori: arv, abstrakta klasser, innerklasser
+* Refaktoreringsövning: [Refaktorera ut gemensamma delar i de olika klasserna](/day_2/block_2/1_RefactoringHierarchy/)
+* Analys och diskussion
+
+13.30
+
+* Teori: Felhantering, try/catch/finally
+* Övning: [Gör portföljen mer robust](/day_2/block_2/2_ExceptionHandling/)
+* Analys och diskussion
+
+14.00
+
+* Teori: paketerad java, jar, skapa körbara filer
+* Frågestund: Vad mer vill ni veta?
+
 14.30
 
 Fika
 
 15.00
 
-* Teori: Collections, generics
-* Övning: [Aktieportfölj del 3](/day_1/block_2/4_StockPortfolio_Part3/)
-* Analys och diskussion
+Slutövning. Välj en av följande övningar:
+* [GUI - grafiskt gränssnitt för portföljen](/day_2/block_3/GUI/)
+* [Lagring - lagra innehållet i portföljen mellan körningar](/day_2/block_3/Storage/)
+* [Aktiv marknad - aktiepriser som kan variera](/day_2/block_3/Market/)
+* [Java Tutorial - läs på valfri del från Oracles Java Tutorials](http://docs.oracle.com/javase/tutorial/index.html)
 
-15.30
+16.15 ca
 
-* Teori: interface, utbytbar kod
-* Övning: [Värdepapperporfölj del 1](/day_1/block_2/5_InstrumentPortfolio_Part1/)
-* Analys och diskussion
-
-16.00
-
-* Teori: arv, abstrakta klasser
-* Refaktoreringsövning: Refaktorera ut gemensamma delar i de olika klasserna
-* Analys och diskussion
-* Återblick och feedback inför dag 2
-
+Utvärdering, avslutning
 
 
 ## Bra länkar

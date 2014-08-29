@@ -13,6 +13,7 @@ Ett värdepapper (Financial instrument) är samlingsnamn för både aktier och f
 	public interface FinancialInstrument {
 		String getId();
 		double getPrice();
+		void setPrice(double price);
 	}
 
 Låt Stock implementera FinancialInstrument.
