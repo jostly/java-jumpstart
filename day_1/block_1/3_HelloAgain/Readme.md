@@ -54,15 +54,13 @@ Högst upp i en fil (innan public class ...):
 
 ### Hitta vilka klasser som finns, och hur de används
 
-[Java 7 API](http://docs.oracle.com/javase/7/docs/api/)
+[Java 8 API](https://docs.oracle.com/javase/8/docs/api/)
 
 ### Läsa textrad från standard input
 
-Använd [Scanner](http://docs.oracle.com/javase/7/docs/api/java/util/Scanner.html)
+Använd [Scanner](https://docs.oracle.com/javase/8/docs/api/java/util/Scanner.html)
 
 	Scanner scanner = new Scanner(System.in);
 	String line = scanner.nextLine();
 	...
 	scanner.close();
-
-
