@@ -60,4 +60,8 @@ Att köra testprogrammet ska ge följande utmatning (ordningen i vilken aktierna
 >
 > SKA B 50 @ 140.0: 7000.0
 
+## Hjälp
 
+# java.util Collections
+
+Javas standardbibliotek innehåller olika Collections för att samla objekt. För den här uppgiften är det lämpligt med en [HashMap](https://docs.oracle.com/javase/8/docs/api/java/util/HashMap.html). 
