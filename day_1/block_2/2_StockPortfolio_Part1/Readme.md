@@ -35,9 +35,9 @@ En aktie kan representeras av en klass med tre värden:
 
 Att köra testprogrammet ska ge följande utmatning:
 
-> Aktie: Ericsson B (ERIC B) 87.40
+> Aktie: Ericsson B (ERIC B) 87,40
 >
-> Aktie: Skanska B (SKA B) 145.90
+> Aktie: Skanska B (SKA B) 145,90
 
 ## Hjälp
 
@@ -51,5 +51,12 @@ Implementera metoden toString():
 
 Se även [Object.toString()](http://docs.oracle.com/javase/7/docs/api/java/lang/Object.html)
 
+### Formattera strängar
 
+Använd String.format():
 
+	String.format("Hello, %s", "Joe")
+
+> Hello, Joe
+
+Se även [Formatter](https://docs.oracle.com/javase/8/docs/api/java/util/Formatter.html)
