@@ -24,7 +24,7 @@ Inköpspriset beräknas enligt:
 
 			Investment investment = new Investment(stock);
 
-			investment.purchase(100);
+			investment.increase(100);
 
 			System.out.println("Inköpspris 1: " + investment.getPurchasePrice());
 
@@ -32,13 +32,13 @@ Inköpspriset beräknas enligt:
 
 			System.out.println("Nytt värde: " + investment.getCurrentValue());
 
-			investment.purchase(50);
+			investment.increase(50);
 
 			System.out.println("Inköpspris 2: " + investment.getPurchasePrice());
 
 			System.out.println("Nytt värde: " + investment.getCurrentValue());
 
-			investment.sell(75);
+			investment.decrease(75);
 
 			System.out.println("Inköpspris efter försäljning: " + investment.getPurchasePrice());
 
